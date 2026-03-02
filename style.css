@@ -1,0 +1,32 @@
+
+body {
+height: 100vh;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+.container {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items:center;
+width: 80%;
+height: 200px;
+background-color: lightpink;
+
+padding: 20px;
+
+}
+
+.box {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 50px;
+color:red ;
+margin: 10px;
+background-color: aqua;
+font-size: 30px;
+height: 50px;
+}
